@@ -1,5 +1,5 @@
-# bank-record-storage-system-
-Certainly! In layman's terms, the project you're looking at involves creating a secure and trustworthy system for keeping records of financial transactions in a bank. Imagine you're using a special digital notebook that ensures that no one can tamper with the records you write down.
+#Record-storage-system-
+The project you're looking at involves creating a secure and trustworthy system for keeping records of financial transactions in a bank. Imagine you're using a special digital notebook that ensures that no one can tamper with the records you write down.
 
 Here's how it works:
 
